@@ -1,5 +1,7 @@
 Card Slider Project
+
 Overview
+
 This Card Slider project is designed to provide a modern and responsive user interface, 
 allowing users to interact with various cards seamlessly. 
 It enhances user experience by showcasing content in an organized and visually appealing manner.
